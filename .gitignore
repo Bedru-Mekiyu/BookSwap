@@ -1,0 +1,20 @@
+# Gradle / Android build files
+*.iml
+.gradle
+/build
+/bookswap/build
+/bookswap/app/build
+/bookswap/.gradle
+
+# IDE files
+/.idea
+/bookswap/.idea
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+local.properties
